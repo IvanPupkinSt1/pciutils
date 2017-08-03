@@ -7,3 +7,9 @@ setpci
 example
 update-pciids
 pci.ids.gz
+NppGTags.cfg
+GRTAGS
+GPATH
+GTAGS
+*.exe
+*.d
